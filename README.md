@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @JawariaIrfan
-- 👀 I’m interested in DATA related projects like data analysis, data exploration, data cleaning, and data visualization 
-- 🌱 I’m currently learning Python and data visualization tools like  PowerBI and Tableau
--  and I have acquired a basic understanding of it, other than that I have a command of Excel and SQL. 
-- 📫 How to reach me: Jawariathakur16@gmail.com
+Passionate about leveraging data to derive meaningful insights and drive informed decisions. 
+Proficient in Python for data analysis, manipulation, and visualization. 
+Eager to collaborate on projects exploring diverse datasets and employing cutting-edge techniques. 
+Constantly learning and exploring new avenues in the realm of data science.
 
 <!---
 JawariaIrfan/JawariaIrfan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
